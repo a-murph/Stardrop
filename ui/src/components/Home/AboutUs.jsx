@@ -42,14 +42,14 @@ const AboutUs = () => (
   <>
     <CurvedBreak />
     <AboutUsContainer>
-      <img src="/images/aboutuspicture.svg" />
+      <img src="/images/aboutuspicture.svg" alt="" />
       <div>
         <h3>About Us</h3>
         <p>We are a small 6-acre homestead located in Middleburgh, New York focused on small-scale production and providing free and accessible online education about sustainable farming. Following the methods and regenerative practices of farmers such as Masanobu Fukuoka and Mark Shepard, we believe that sustainable farming is not only achievable, by a practical business model for the world to shift towards in the coming century.</p>
       </div>
     </AboutUsContainer>
     <FooterImageContainer>
-      <img src="/images/mountains.svg" />
+      <img src="/images/mountains.svg" alt="" />
     </FooterImageContainer>
     <Footer>
 
